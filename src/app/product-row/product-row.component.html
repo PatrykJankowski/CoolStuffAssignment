@@ -1,0 +1,14 @@
+<div class="product">
+
+  <app-product-image [product]="product"></app-product-image>
+
+  <div class="content">
+    <h3 class="header">{{ product.name }}</h3>
+
+    <button *ngIf="product.id == 88 || product.id == 102" class="btn btn-success" (click)="addToCart(product.id)">Buy</button>
+    <button *ngIf="product.id != 88 && product.id != 102" class="btn btn-success disabled">Buy</button>
+
+    <app-product-price [price]="product.price"></app-product-price>
+  </div>
+
+</div>

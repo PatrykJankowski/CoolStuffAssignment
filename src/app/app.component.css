@@ -1,0 +1,16 @@
+h1 {
+  display: inline-block;
+  padding: 25px 5px;
+}
+
+app-cart {
+  float: right;
+  padding: 6px 0;
+}
+
+@media (max-width: 575px) {
+  app-cart {
+    text-align: center;
+    padding: 6px 0 15px 0;
+  }
+}

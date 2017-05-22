@@ -1,0 +1,11 @@
+<img src="../../assets/shopping-cart.png">
+
+<div *ngIf="cart != undefined">
+  <p><strong>Total</strong>: {{cart.total}} {{cart.currency}}</p>
+  <p><strong>Products:</strong></p>
+  <p *ngFor="let product of cart.products">{{product.name}} x{{product.quantity}}</p>
+</div>
+
+<div class="empty" *ngIf="cart == undefined">
+  Your cart is empty
+</div>

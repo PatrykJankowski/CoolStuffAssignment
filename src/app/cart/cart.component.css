@@ -1,0 +1,31 @@
+h2 {
+  font-size: 18px;
+}
+
+p {
+  margin: 0 10px;
+  font-size: 14px;
+}
+
+img {
+  float: right;
+  padding: 10px;
+}
+
+div {
+  float: right;
+}
+
+.empty {
+  line-height: 80px;
+}
+
+
+@media (max-width: 575px) {
+  img {
+    float: none;
+  }
+  div {
+    float: none;
+  }
+}
