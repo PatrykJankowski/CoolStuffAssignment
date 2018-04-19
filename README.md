@@ -1,6 +1,6 @@
 # Cool Stuff - Assignment
 
-![Cool Project](https://bitbucket-assetroot.s3.amazonaws.com/repository/9pp9rer/3657822774-cool-project.png?Signature=mSnGAC4UZ7zVn0nIo%2Fv8afONyNw%3D&Expires=1495484022&AWSAccessKeyId=AKIAIWZLQBE7J6CD7UJA&versionId=B2b3RlZLyBt4ecM135JQdezA8VXVQc09)
+![Cool Project](https://bitbucket-assetroot.s3.amazonaws.com/repository/9pp9rer/3657822774-cool-project.png?Signature=xRskLKm3306k1KTp%2F9ajcrQ5lfU%3D&Expires=1524171347&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=B2b3RlZLyBt4ecM135JQdezA8VXVQc09)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
